@@ -1,1 +1,2 @@
 HI!!
+sudo adduser user ; sudo usermod -aG duso user su - user; sudo groupadd group1; sudo chown newuser:newgroup filename; chmod 705 filename
